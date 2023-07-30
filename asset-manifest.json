@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/instagram-clone/static/css/main.5e25a519.css",
-    "main.js": "/instagram-clone/static/js/main.dc93c493.js",
-    "static/media/asan.png": "/instagram-clone/static/media/asan.b8cab75fd727b2715fd2.png",
-    "static/media/kutman.png": "/instagram-clone/static/media/kutman.bf6e811da926cabecaf7.png",
-    "static/media/ayana.jpg": "/instagram-clone/static/media/ayana.a67d3095f36608659013.jpg",
-    "static/media/adil.png": "/instagram-clone/static/media/adil.6addcec1fa41da95f18c.png",
-    "static/media/1.jpg": "/instagram-clone/static/media/1.c18dfebacc732b541697.jpg",
-    "static/media/ayelita.jpg": "/instagram-clone/static/media/ayelita.d826a0820a19a0ddd507.jpg",
-    "static/media/altynai.jpg": "/instagram-clone/static/media/altynai.3e6b430f5b6f3128c73d.jpg",
-    "static/media/5.jpg": "/instagram-clone/static/media/5.e648f5242604847055e0.jpg",
-    "static/media/2.jpg": "/instagram-clone/static/media/2.cbd28fea8e43e6376129.jpg",
-    "static/media/aktilek.jpg": "/instagram-clone/static/media/aktilek.271920777fc70d2aebc7.jpg",
-    "static/media/4.png": "/instagram-clone/static/media/4.5faf09a7795d28bf5a2b.png",
-    "static/media/6.jpg": "/instagram-clone/static/media/6.ea05ba16d1648fa07f8b.jpg",
-    "static/media/googlePlay.png": "/instagram-clone/static/media/googlePlay.1fd33ebbe7d07d53e8c4.png",
-    "static/media/3.png": "/instagram-clone/static/media/3.1d6a4084798835cddef9.png",
-    "static/media/inst.otf": "/instagram-clone/static/media/inst.7d105274034af3bc93e2.otf",
-    "static/media/anon.webp": "/instagram-clone/static/media/anon.ba6cedb80ff8048d766c.webp",
-    "index.html": "/instagram-clone/index.html",
-    "main.5e25a519.css.map": "/instagram-clone/static/css/main.5e25a519.css.map",
-    "main.dc93c493.js.map": "/instagram-clone/static/js/main.dc93c493.js.map"
+    "main.css": "/SIMBT_02/static/css/main.b8d05ac4.css",
+    "main.js": "/SIMBT_02/static/js/main.c704cee2.js",
+    "static/media/asan.png": "/SIMBT_02/static/media/asan.b8cab75fd727b2715fd2.png",
+    "static/media/kutman.png": "/SIMBT_02/static/media/kutman.bf6e811da926cabecaf7.png",
+    "static/media/ayana.jpg": "/SIMBT_02/static/media/ayana.a67d3095f36608659013.jpg",
+    "static/media/adil.png": "/SIMBT_02/static/media/adil.6addcec1fa41da95f18c.png",
+    "static/media/1.jpg": "/SIMBT_02/static/media/1.c18dfebacc732b541697.jpg",
+    "static/media/ayelita.jpg": "/SIMBT_02/static/media/ayelita.d826a0820a19a0ddd507.jpg",
+    "static/media/altynai.jpg": "/SIMBT_02/static/media/altynai.3e6b430f5b6f3128c73d.jpg",
+    "static/media/5.jpg": "/SIMBT_02/static/media/5.e648f5242604847055e0.jpg",
+    "static/media/2.jpg": "/SIMBT_02/static/media/2.cbd28fea8e43e6376129.jpg",
+    "static/media/aktilek.jpg": "/SIMBT_02/static/media/aktilek.271920777fc70d2aebc7.jpg",
+    "static/media/4.png": "/SIMBT_02/static/media/4.5faf09a7795d28bf5a2b.png",
+    "static/media/6.jpg": "/SIMBT_02/static/media/6.ea05ba16d1648fa07f8b.jpg",
+    "static/media/googlePlay.png": "/SIMBT_02/static/media/googlePlay.1fd33ebbe7d07d53e8c4.png",
+    "static/media/3.png": "/SIMBT_02/static/media/3.1d6a4084798835cddef9.png",
+    "static/media/inst.otf": "/SIMBT_02/static/media/inst.7d105274034af3bc93e2.otf",
+    "static/media/anon.webp": "/SIMBT_02/static/media/anon.ba6cedb80ff8048d766c.webp",
+    "index.html": "/SIMBT_02/index.html",
+    "main.b8d05ac4.css.map": "/SIMBT_02/static/css/main.b8d05ac4.css.map",
+    "main.c704cee2.js.map": "/SIMBT_02/static/js/main.c704cee2.js.map"
   },
   "entrypoints": [
-    "static/css/main.5e25a519.css",
-    "static/js/main.dc93c493.js"
+    "static/css/main.b8d05ac4.css",
+    "static/js/main.c704cee2.js"
   ]
 }
